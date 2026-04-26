@@ -3,7 +3,6 @@ export type Translations = typeof en;
 export const en = {
   // App-wide
   app: {
-    slogan: "work, but make it easy",
     login: "Login",
     signup: "Sign up free",
     back: "Back",
@@ -321,7 +320,6 @@ export const en = {
 
 export const id: Translations = {
   app: {
-    slogan: "kerja namun ringan",
     login: "Masuk",
     signup: "Daftar gratis",
     back: "Kembali",

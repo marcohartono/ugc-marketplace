@@ -5,7 +5,7 @@ import { LangToggle } from "@/components/shared/LangToggle";
 import { Toaster } from "@/components/ui/sonner";
 
 export const metadata: Metadata = {
-  title: "KONTENIN — Platform UGC untuk Kreator Indonesia",
+  title: "KONTENIN",
   description: "Dapetin cuan dari konten yang kamu udah bikin tiap hari.",
 };
 
